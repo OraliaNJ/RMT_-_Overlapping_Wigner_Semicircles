@@ -9,5 +9,7 @@ This method presents a regional analysis of COVID-19 in Mexico. Due to the comor
 
 The figure A_Mob.jpg describes the Asthma morbidity analysis in the 5 regions of Mexico divided by hospitalized and non-hospitalized patients who tested positive to COVID-19 in the 176 days of analysis.
 
+Note: The programming language is scripting and I select Octave for its implemantation.
+
 
 */
